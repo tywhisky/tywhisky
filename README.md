@@ -1,9 +1,13 @@
 <h2>Hi, I'm Tianyu.</h2>
 <p>I write software.</p>
-<p style="padding-left: 1em;"><em>Elixir. Emacs. Love Functional Programming.</em></p>
-<p style="padding-left: 1em;"><em>Full-stack developer.</em></p>
-<p style="padding-left: 1em;"><em>Indie builder.</em></p>
-<p style="padding-left: 1em;"><em>Badminton. Tennis. Games.</em></p>
+<p>
+  <ul style="padding-left: 1.5em; margin: 0;">
+    <li><em>Elixir. Emacs. Love Functional Programming.</em></li>
+    <li><em>Full-stack developer.</em></li>
+    <li><em>Indie builder.</em></li>
+    <li><em>Badminton. Tennis. Games.</em></li>
+  </ul>
+</p>
 <p>Trying to keep enjoying design in the age of AI.</p>
 
 <picture>
