@@ -21,10 +21,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="211.1491677036715" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="211.1491677036715" y="0" width="198.475826162516" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="409.62499386618754" y="0" width="31.50432785269146" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="441.129321718879" y="0" width="18.870678281121034" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="211.12256955900824" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="211.12256955900824" y="0" width="198.45082445972054" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="409.57339401872883" y="0" width="31.500359299659223" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="441.073753318388" y="0" width="18.92624668161199" height="8" fill="#F05138"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -63,7 +63,7 @@
                             </div>
                             <small>
                                 <div>6.26 MB</div>
-                                <div>43.15%</div>
+                                <div>43.14%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -74,8 +74,8 @@
                                 Swift
                             </div>
                             <small>
-                                <div>595 kB</div>
-                                <div>4.1%</div>
+                                <div>597 kB</div>
+                                <div>4.11%</div>
                             </small>
                         </div>
                     </section>
