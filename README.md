@@ -1,4 +1,4 @@
-<h2>Hi, I'm TianYu.</h2>
+<h2>Hi, I'm Tianyu.</h2>
 <p>I write software.</p>
 <p>
   <ul style="padding-left: 1.5em; margin: 0;">
